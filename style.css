@@ -24,7 +24,7 @@ header img{
 }
 .navigation li a{
     font-size: 18px;
-    color: red;
+    color: #f7931e;
     font-weight: 700;
 }
 /* header css end */
@@ -41,8 +41,11 @@ header img{
 .banner-content h1{
     color: #f7931e;
     font-size: 60px;
-    font-weight: bolder;
+    font-weight: bold;
     font-family: 'Roboto Condensed', sans-serif;
+}
+.banner-content h1 span{
+    color: #4d4d4d;
 }
 .banner-content p{
     font-weight: 700;
